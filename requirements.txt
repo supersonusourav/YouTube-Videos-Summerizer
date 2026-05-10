@@ -1,3 +1,4 @@
+python == 3.11
 streamlit
 crewai[google-genai]
 python-dotenv
